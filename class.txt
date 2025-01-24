@@ -1,0 +1,28 @@
+class
+
+objects:
+consists of:
+i)  state     -Properties (attributes)
+ii) Behaviour -response (methods)
+iii)Identity  -Interact (unique name)
+
+
+Identity  --->  name of the dog.
+state     ---> breed,age,color of dog
+Behaviour ---> whether the dog is eating or sleeping.
+
+
+
+
+
+
+
+
+>>>>>>>>>TELUSKO>>>>>>>>>>>
+
+class computers:
+	def config(self):
+		print("i5,16gb,17b")
+
+x= '8'
+
